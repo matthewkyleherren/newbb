@@ -24,5 +24,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PJBLFKQ');<\/script>
 <!-- End Google Tag Manager -->
-`,description:`Seamless order processing for suppliers and restaurants — cutting-edge tools to simplify your operations. `,favicon:`https://framerusercontent.com/assets/qIP9MZ9QgmnpaSDIG4cDmHTAugM.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/7NsllBWvtNeVSvHS33UVBLEFHM.png`,title:`REKKI — We make wholesale operations smarter so you can serve better`}}var n=e((()=>{}));export{n as init_siteMetadata,t as metadata};
+`,description:`Seamless order processing for suppliers and restaurants — cutting-edge tools to simplify your operations. `,favicon:`https://framerusercontent.com/assets/qIP9MZ9QgmnpaSDIG4cDmHTAugM.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/7NsllBWvtNeVSvHS33UVBLEFHM.png`,title:`BigBites — We make wholesale operations smarter so you can serve better`}}var n=e((()=>{}));export{n as init_siteMetadata,t as metadata};
 //# sourceMappingURL=shared-lib.CQbBl4dF.mjs.map
